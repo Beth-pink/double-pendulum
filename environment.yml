@@ -1,0 +1,10 @@
+name: double-pendulum
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - ipywidgets
